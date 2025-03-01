@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node template",
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "homepage": "https://github.com/TheBookKnight/nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/TheBookKnight/nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBookKnight/nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Joshua Cadavez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
